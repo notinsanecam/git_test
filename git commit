@@ -1,0 +1,18 @@
+[33mcommit f378cccab7a01bb34925d085277dfb9c263c071c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: notinsanecam <71185512+notinsanecam@users.noreply.github.com>
+Date:   Sat Nov 30 16:09:24 2024 -0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit ada284554bdad8c4cc506b7415d4d56058ce7405[m
+Author: notinsanecam <71185512+notinsanecam@users.noreply.github.com>
+Date:   Sat Nov 30 16:00:51 2024 -0300
+
+    Add hellow_world.txt
+
+[33mcommit fe05508b14362784ef62487599e494a41a887c73[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cam <71185512+notinsanecam@users.noreply.github.com>
+Date:   Sat Nov 30 15:48:13 2024 -0300
+
+    Initial commit
+// hello_world
